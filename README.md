@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sharad Thing</h1>
 <h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="NickTamang" /> </p>
