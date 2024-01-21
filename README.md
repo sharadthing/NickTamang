@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Sharad Thing</h1>
 <h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/NickTamang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="NickTamang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/NickTamang&theme=" alt="https://github.com/NickTamang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NickTamang&theme=" alt="NickTamang" /></a> </p>
 
 - 🔭 I’m currently working on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
 - 👯 I’m looking to collaborate on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
@@ -13,13 +13,13 @@
 - 👨‍💻 All of my projects are available at **https://www.sharadthing.co.uk**
 - 📄 Know about my experiences **https://www.linkedin.com/in/sharad-thing-95a40125a/**
 
-<div> <a href="https://twitter.com/https://twitter.com/NickTMG13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sharad-thing-95a40125a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/https://github.com/NickTamang" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://twitter.com/NickTMG13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sharad-thing-95a40125a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/NickTamang" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:thingsharad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/NickTMG13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/NickTMG13" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/sharad-thing-95a40125a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharad-thing-95a40125a/" height="30" width="40" /></a></p>
+<a href="https://twitter.com/NickTMG13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="NickTMG13" height="30" width="40" /></a><a href="https://linkedin.com/in/sharad-thing-95a40125a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="sharad-thing-95a40125a/" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,22 +52,20 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/NickTamang&layout=compact&theme=" alt=https://github.com/NickTamang />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NickTamang&show_icons=true&locale=en&theme=dark" alt="NickTamang" /></p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/NickTamang&show_icons=true&locale=en&theme=" alt="https://github.com/NickTamang" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/NickTamang&theme=" alt="https://github.com/NickTamang" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NickTamang&theme=dark" alt="NickTamang" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/https://github.com/NickTamang">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/NickTamang&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/NickTamang&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/NickTamang&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/NickTamang&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/NickTamang&theme=2077" height="180em" />
+<a href="https://github.com/NickTamang">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NickTamang&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickTamang&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NickTamang&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickTamang&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickTamang&theme=aura" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/NickTamang&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=NickTamang&theme=react"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
