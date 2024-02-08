@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sharad Thing</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=27&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=447&height=68&lines=-Full+Stack+Developer;-12%2B+Years+well-versed+in+Computers%2FTech;-Developing+proficiency+in+Data+Analyst;-Foundational+grasp+on+Devops;-Strong+Coding+Background" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=32&pause=1000&color=0EF700&background=001FFF00&center=true&vCenter=true&random=false&width=447&height=68&lines=-Full+Stack+Developer;-12%2B+Years+well-versed+in+Computers%2FTech;-Developing+proficiency+in+Data+Analyst;-Foundational+grasp+on+Devops;-Strong+Coding+Background" alt="Typing SVG" /></a>
 <h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="NickTamang" /> </p>
 
