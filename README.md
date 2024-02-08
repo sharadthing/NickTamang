@@ -1,8 +1,28 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=32&pause=1000&color=0EF700&background=001FFF00&random=false&width=447&height=68&lines=-Full+Stack+Developer;-12%2B+Years+well-versed+in+Computers%2FTech;-Developing+proficiency+in+Data+Analyst;-Foundational+grasp+on+Devops;-Strong+Coding+Background" alt="Typing SVG" /></a>
-<h1 align="center">Hi 👋, I'm Sharad Thing</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=32&pause=1000&color=0EF700&background=001FFF00&center=true&vCenter=true&random=false&width=447&height=68&lines=-Full+Stack+Developer;-12%2B+Years+well-versed+in+Computers%2FTech;-Developing+proficiency+in+Data+Analyst;-Foundational+grasp+on+Devops;-Strong+Coding+Background" alt="Typing SVG" /></a>
-<h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=1CF752&background=000000&multiline=true&repeat=false&random=false&width=1200&height=140&lines=def+introduce(name%2Cemoji)%3A+;++++return+f%22Hi%2C+I+am+%7Bname%7D%7Bemoji%7D%5CnFull-Stack+Developer%7B%7D%22;print(introduce(%22Sharad+Thing%22%2C+%22%F0%9F%91%8B%22))" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=60&pause=1000&color=28FF00&background=000000&center=true&multiline=true&random=false&width=1200&height=160&lines=Hi+I+am+Sharad+Thing%F0%9F%91%8B;Full-Stack+Developer%7B%7D" alt="Typing SVG" /></a></h1>
+</h1>
+<picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      width=100%
+    />
+  </picture>
+<br><br><br><br><br><br><h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="NickTamang" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning (Pandas)**
+- 💬 Ask me about **Full Stack Development**
+- 📫 How to reach me xx
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NickTamang&theme=" alt="NickTamang" /></a> </p>
 
