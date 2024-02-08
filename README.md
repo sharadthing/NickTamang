@@ -16,13 +16,12 @@
   </picture>
 <h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="NickTamang" /> </p>
-- 🌱 I’m currently learning **Machine Learning (Pandas)**
+<!-- - 🌱 I’m currently learning **Machine Learning (Pandas)**
 - 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me **thingsharad@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.sharadthing.co.uk**
-- 📄 Know about my experiences **https://www.linkedin.com/in/sharad-thing-95a40125a/**
-<br>
-- 🔭 I’m currently working on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
+- 📄 Know about my experiences **https://www.linkedin.com/in/sharad-thing-95a40125a/** -->>
+- 🔭 I’m currently working on [ATOS-Automatic-table-odering-system](https://github.com/NickTamang/ATOS-Automatic-table-odering-system-cart-payment-gateway-implementation-using-PHP-mysql) <br>
 - 👯 I’m looking to collaborate on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
 
 <div> <a href="https://twitter.com/NickTMG13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
