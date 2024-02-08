@@ -14,22 +14,16 @@
       width=100%
     />
   </picture>
-<br><br><br><br><br><br><h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
+<h3 align="center">Tech enthusiast pursuing BSc. Hons Computer Science Degree at Ulster University London ( Completed Year II with First Class 74%). Full Stack Developer at TechXBusiness(2023)- Highlighting companies to get digitalise</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickTamang&label=Profile%20views&color=0e75b6&style=flat" alt="NickTamang" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning (Pandas)**
-- 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me xx
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NickTamang&theme=" alt="NickTamang" /></a> </p>
-
-- 🔭 I’m currently working on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
-- 👯 I’m looking to collaborate on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
 - 🌱 I’m currently learning **Machine Learning (Pandas)**
 - 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me **thingsharad@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.sharadthing.co.uk**
 - 📄 Know about my experiences **https://www.linkedin.com/in/sharad-thing-95a40125a/**
+<br>
+- 🔭 I’m currently working on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
+- 👯 I’m looking to collaborate on [autosewa-rider-webapp-v1.0](https://github.com/NickTamang/autosewa-rider-webapp-v1.0)
 
 <div> <a href="https://twitter.com/NickTMG13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sharad-thing-95a40125a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
